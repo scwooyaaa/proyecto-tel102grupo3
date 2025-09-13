@@ -1,4 +1,4 @@
-#IA utilizado
+# IA utilizado
 Se utilizó la IA chatgpt para desarrollar preguntas tipo PAES y para ayudar con el formato del structs de las preguntas.
 
 ## Preguntas
